@@ -1,0 +1,9 @@
+Hivechat requires NowJS, which can be found at http://nowjs.com/.  People with npm can just type "npm install now"
+
+To run the server, just type "node hivechat.js"  
+
+The server will run by default on port 8080. 
+
+If you're having any trouble, have some suggestions, or need help, drop me a note: hivechat@ericmeltzer.org
+
+Enjoy!
